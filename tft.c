@@ -50,8 +50,7 @@ int main (void)
   if (key == 'r')
  
   {
- 
-   // system("cls");
+
    printf("level : %d    %d/%d\n", level, exp,ex(level));
    each_level_probability(level);
  
